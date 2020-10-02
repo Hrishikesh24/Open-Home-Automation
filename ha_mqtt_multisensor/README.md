@@ -25,7 +25,7 @@ Temperature and Humidity sensor.
 - SHT3X SCL - D2
 - SHT3X SDA - D3
 
-### Photoresistor
+### Photoresistor LDR
 Luminosity sensor. Schematic available [here](https://github.com/mertenats/Open-Home-Automation/tree/master/ha_mqtt_sensor_photocell).
 
 - Photocell leg 1 - VCC
